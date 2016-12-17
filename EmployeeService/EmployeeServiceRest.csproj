@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="EmployeeService.svc" />
     <Content Include="Global.asax" />
+    <Content Include="Properties\PublishProfiles\IISEmployeeService.pubxml.user" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
